@@ -37,7 +37,7 @@ XHS, A high-resolution photograph of a beautiful young girl with a sweet smile, 
 2. French Lazy Afternoon / 法式慵懒下午茶 ☕
 
 XHS, A candid lifestyle shot of an elegant girl sitting by the window in a cozy coffee shop. She is wearing a beige oversized sweater and a beret, exuding a relaxed French style. She is holding a ceramic coffee cup and looking out the window, not at the camera. The afternoon sun casts a warm, cinematic glow on her face. The image has high detailed skin texture and a depth of field that focuses on her, conveying a lazy and sophisticated afternoon tea atmosphere.
-![French Lazy Afternoon](https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/14779c907563984e567cd562c48acd78ec0a6d01dad7e5fdc9c5440d9d0ddb18.png)
+![French Lazy Afternoon](https://github.com/applesay20160204/REDland_Aesthetic_FLUX.1_v1/blob/main/1121-2.png)
 **Sampler / 采样器:** deis | **Scheduler / 调度器:** ddim_uniform | **Steps / 步数:** 26
 
 3. Urban Street Fashion / 高街酷飒 OOTD 🕶️
