@@ -1,5 +1,6 @@
-📸 Xiaohongshu Aesthetic FLUX.1 (Full Fine-tune)
-FLUX.1 小红书氛围感全量微调大模型
+# 📸 Xiaohongshu Aesthetic FLUX.1 (Full Fine-tune)
+# FLUX.1 小红书氛围感全量微调大模型
+
 <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/1fb72b5a40bd2de6c9c2de3354a8adc8e2a063221f15925e1a776ac0dd9f8ed0.png" width="30%"> <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/1cf624f837501296d14038d06769b140b85efdefdb97951d2830b5f0943dbb82.png" width="30%"> <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/bc7a13a6f2936aa32404cea8ef31b5c403018ca65301ebe51d15f17314ddcf8f.png" width="30%">
 
 ✨ Introduction / 简介
@@ -7,12 +8,18 @@ Welcome to the Xiaohongshu (RedNote) Aesthetic Model.
 欢迎使用 小红书氛围感大模型。
 
 **Model Download / 模型下载:** [https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main)
+
 Unlike common LoRAs, this is a Full Fine-tune (Checkpoint) based on the FLUX.1 architecture. We have retrained the model weights to natively understand the nuances of Asian lifestyle photography, lighting, and fashion.
+
 不同于常见的 LoRA，这是一个基于 FLUX.1 架构的全量微调大模型 (Checkpoint)。我们对模型权重进行了重新训练，使其能从底层原生理解亚洲生活方式摄影、光影和时尚的细微差别。
+
 🚀 Why Full Fine-tune? / 为什么要用全量微调版？
 No LoRA Needed: Just load the checkpoint and generate. No complex node setups. (无需挂载 LoRA，加载模型即可直接生成)
+
 Better Consistency: The style is "baked" into the model, offering superior consistency and prompt adherence compared to adapters. (风格已融入模型底层，比外挂 LoRA 具有更好的一致性和提示词跟随性)
+
 High Fidelity: Optimized for photorealism, "glass skin" texture, and "phone-camera" aesthetics. (针对照片真实感、水光肌质感和手机直出感进行了深度优化)
+
 🔧 Model Details / 模型信息
 Architecture: FLUX.1 (Fine-tuned)
 Type: Checkpoint / Diffusion Model (Not a LoRA)
