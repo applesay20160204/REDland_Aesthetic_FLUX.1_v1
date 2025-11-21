@@ -55,7 +55,7 @@ XHS, A realistic mirror selfie taken by a cute girl in her bedroom. She is sitti
 5. Hong Kong Retro Night / 港风复古夜景 🌃
 
 XHS, A cinematic night portrait with a vintage Hong Kong film aesthetic. A girl with wavy hair and red lipstick is standing on a street filled with neon signs. She is wearing a black dress and has a melancholic, emotional expression. The lighting is moody with blue and red neon reflections on her face. The image has a film grain texture, slight chromatic aberration, and a soft diffusion effect, resembling a scene from a Wong Kar-wai movie.
-![Hong Kong Retro Night](https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/54314146db70534f20df5de853fd35cb55b7a9cec4b38dcc9a0adc1c65f13bd6.png)
+![Hong Kong Retro Night](https://github.com/applesay20160204/REDland_Aesthetic_FLUX.1_v1/blob/main/1121-5.png)
 **Sampler / 采样器:** deis | **Scheduler / 调度器:** ddim_uniform | **Steps / 步数:** 26
 
 选择发布的版本是75轮生成的，效果最佳
