@@ -59,15 +59,24 @@ XHS, A cinematic night portrait with a vintage Hong Kong film aesthetic. A girl 
 **Sampler / 采样器:** deis | **Scheduler / 调度器:** ddim_uniform | **Steps / 步数:** 26
 
 选择发布的版本是75轮生成的，效果最佳
+选择发布的版本是75轮生成的，效果最佳
+
 ⚙️ Usage / 使用方法
 ComfyUI
 Place the file in: ComfyUI/models/diffusion_models/ (NOT models/loras/)
 将文件放入 diffusion_models 文件夹，而不是 loras 文件夹
+
 Use the UNet Loader node.
 使用 UNet Loader 节点加载
+
 Recommended Sampler: deis
+
 Recommended Scheduler: ddim_uniform
+
 Recommended Steps: 20-30
+
+CFG:1
+
 📄 License / 许可
 Based on FLUX.1. Please refer to the original FLUX.1 license for commercial usage restrictions (if applicable).
 本模型基于 FLUX.1 微调。商业使用限制请参考原始 FLUX.1 许可协议。
