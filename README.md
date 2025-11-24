@@ -1,5 +1,5 @@
-# 📸 Xiaohongshu Aesthetic FLUX.1 (Full Fine-tune)
-# FLUX.1 小红书氛围感全量微调大模型
+# 📸 Wanghong Aesthetic FLUX.1 (Full Fine-tune)
+# FLUX.1 网红氛围感全量微调大模型
 
 <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/1fb72b5a40bd2de6c9c2de3354a8adc8e2a063221f15925e1a776ac0dd9f8ed0.png" width="30%"> <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/1cf624f837501296d14038d06769b140b85efdefdb97951d2830b5f0943dbb82.png" width="30%"> <img src="https://applesay-meye.oss-cn-shanghai.aliyuncs.com/meye/bc7a13a6f2936aa32404cea8ef31b5c403018ca65301ebe51d15f17314ddcf8f.png" width="30%">
 
