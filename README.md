@@ -7,7 +7,10 @@
 Welcome to the Xiaohongshu (RedNote) Aesthetic Model.
 欢迎使用 小红书氛围感大模型。
 
-**Model Download / 模型下载:** [https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main)
+**Model Download / 模型下载:**
+[https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1/tree/main)、
+
+[https://www.modelscope.cn/models/applesay123456/REDland_Aesthetic_FLUX.1_v1](https://www.modelscope.cn/models/applesay123456/REDland_Aesthetic_FLUX.1_v1)
 
 Unlike common LoRAs, this is a Full Fine-tune (Checkpoint) based on the FLUX.1 architecture. We have retrained the model weights to natively understand the nuances of Asian lifestyle photography, lighting, and fashion.
 
